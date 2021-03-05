@@ -1,6 +1,4 @@
 # WAccess
-A plugin to evaluate accessibility of Websites based on WCAG 2.1 Guidelines
-# StackEmo
 
 ## What is WAccess?
 1. WAccess is a Google Chrome plug-in, that evaluates accessibility of websites based on some of WCAG 2.1 and WCAG 2.0 Guidelines.
