@@ -71,7 +71,7 @@ In the "accessibility-chrome-plugin" folder,
 6. Click on “Load unpacked”  
 7. A popup appears to select folder  
 8. Select WAccess folder from the location you previously extracted to, and click on OK.  
-9. StackEmo Plugin gets installed on Chrome.  
+9. WAccess Plugin gets installed on Chrome.  
 
 ## Steps to use WAccess:
 1. Navigate to any website of your choice 
