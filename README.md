@@ -12,8 +12,11 @@
 
 ## Uses of WAccess:
 There is massive digitization in the current day, leading to numerous websites.
+
 Accessibility is one of the important features of these websites.
+
 The WCAG guidelines could support the development of accessible websites.
+
 Evaluating the websites against the WCAG guidelines could help in identifying violations against the WCAG guidelines, and could consequently help developers in developing accessible websites.
 
 ## Working of WAccess:
