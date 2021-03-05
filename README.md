@@ -11,7 +11,7 @@
 3. Also, displays relevant suggestions to fix the violation.
 
 ## Uses of WAccess:
-There is massive digitization in the current day, leading to numerous websites.
+There is massive digitization in the present day, leading to numerous websites.
 
 Accessibility is one of the important features of these websites.
 
